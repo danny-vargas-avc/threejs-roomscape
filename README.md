@@ -1,5 +1,5 @@
 # Roomscape
-This is a simple Vue 3 project that sets up a Three.js scene.
+A simple Vue3 + Vite project that sets up a Three.js scene.
 The project demonstrates:
 1. a first-person view with controls
 2. a small room with a few walls and a floor
